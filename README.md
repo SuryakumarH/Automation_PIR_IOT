@@ -1,2 +1,2 @@
-# Automation_PIR_IOT
-IOT for light
+Abstract
+This project demonstrates a simple yet effective motion detection system using an Arduino board, a PIR (Passive Infrared) motion sensor, and an LED light. The PIR sensor detects motion within its range and triggers an output signal when it senses a change in infrared radiation. Upon detecting motion, the Arduino activates an LED light connected to one of its output pins. The system is designed to provide an automated response to human or object movement, such as turning on a light when motion is detected in a room. This project can serve as a foundation for more complex applications in home automation, security systems, and energy-efficient lighting.
